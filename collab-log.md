@@ -8,3 +8,4 @@
 2026-09-04 | ARISE randomizer + quiz portals deployed — presentation randomizer, two quiz portals with practice mode + DOCX export
 2026-09-03 | ARISE admin tools — profanity filtering, automated backups, manual override
 2026-09-02 | ARISE platform infra — individual submission platform (full name + personal token), per-problem weighted leaderboards
+2026-09-08 | ARISE 2026 LinkedIn announcement posted — competition wrap, leaderboard design, 3-stage eval, accessibility framing, image attached
